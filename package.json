@@ -1,0 +1,20 @@
+{
+  "name": "reicheltp.github.io",
+  "version": "1.0.0",
+  "description": "My site",
+  "main": "index.js",
+  "repository": "https://github.com/reicheltp/reicheltp.github.io",
+  "author": "paul.reichelt@outlook.com",
+  "license": " ",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "next": "^9.5.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
